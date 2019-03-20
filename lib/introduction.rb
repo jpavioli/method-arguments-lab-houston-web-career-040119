@@ -1,2 +1,3 @@
 def introduction(name)
-  puts ""
+  puts "Hi, my name is #{name} and I am learning to program in Ember.js.\n"
+end
